@@ -134,6 +134,6 @@ Para usar este proyecto:
 Este proyecto está bajo licencia MIT (o la que corresponda según tu configuración).
 **Información del Proyecto:**
 
-- GroupId: `com.davinchicoder`
+- GroupId: `com.engmaxsm`
 - ArtifactId: `spring-grpc`
 - Versión: `0.0.1-SNAPSHOT`
